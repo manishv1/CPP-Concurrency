@@ -1,0 +1,7 @@
+Can We Overload All Operators? 
+Almost all operators can be overloaded except a few. Following is the list of operators that cannot be overloaded.
+sizeof
+typeid
+Scope resolution (::)
+Class member access operators (.(dot), .* (pointer to member operator))
+Ternary or conditional (?:)
